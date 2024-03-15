@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="WardenFort"/>
+  <qresource prefix="newPrefix">
+    <file>C:/Users/Admin/Downloads/ubel.jpg</file>
+  </qresource>
+</RCC>
